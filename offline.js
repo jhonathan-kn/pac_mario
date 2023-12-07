@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1590116994,
+	"version": 1701914824,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/blocochaocomneon.png",
 		"images/fundo-sheet0.png",
